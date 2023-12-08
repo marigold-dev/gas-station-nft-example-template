@@ -2,7 +2,7 @@
 
 This repository aims to provide a boilerplate for the tutorial on using the Gas Station. It includes an example of minting NFTs that you can find at this [address](https://ghostnet.gas-station-nft-example.marigold.dev).
 
-To access the tutorial instructions, please visit this [page](https://docs.gas-station.marigold.dev/TUTORIAL.html) in the documentation.
+To access the tutorial instructions, please visit this [page](https://docs.gas-station.marigold.dev/tutorial.html) in the documentation.
 
 
 ## Requirements
